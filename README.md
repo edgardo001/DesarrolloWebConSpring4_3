@@ -15,3 +15,7 @@ El curso se realizo sobre el IDE:
 * Build Id: 201612191351
 * Platform: Eclipse Neon.2 (4.6.2) 
 
+Arquitectura Usada:
+
+![alt text](https://github.com/edgardo001/DesarrolloWebConSpring4_3/blob/master/ArquitecturaMejoresPracticasSpring.jpg)
+
