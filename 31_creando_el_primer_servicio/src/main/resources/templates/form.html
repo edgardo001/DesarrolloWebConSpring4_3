@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Cerrar siempre la etiqueta meta -->
+<meta charset="ISO-8859-1" />
+<title>FORM</title>
+</head>
+<body>
+	<!-- Usar "@" para entregar una URL o una redireccion -->
+	<form action="#" th:action="@{/example3/addperson}" th:object="${person}" method="post">
+		<!-- Para asignar un valor al objeto person se debe usar "*" -->
+		<p>NAME: <input type="text" th:field="*{name}"></input></p>
+		<p>AGE: <input type="text" th:field="*{age}"></input></p>
+		<p><input type="submit" value="Submit"></input></p>
+	</form>
+</body>
+</html>
