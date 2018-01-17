@@ -2,11 +2,11 @@
 
 Se carga "workspace" completo de eclipse al repositorio.
 Para cargar los proyecto:
-* "Abrir Spring Tool Suite" o "Eclipse con el plugin Spring"
-* Seleccionar esta carpeta como Workspace (Solo abrira el workspace vacio)
-* Para agregar los proyectos ir a "File/Open Proyects from file System..." 
+* "Abrir Spring Tool Suite" o "Eclipse con el plugin Spring".
+* Seleccionar esta carpeta como Workspace (Solo abrira el workspace vacio).
+* Para agregar los proyectos ir a "File/Open Proyects from file System...". 
 boton "Directory..." y seleccionar un proyecto dentro de esta carpeta Workspace,
- pulsar "Finish" (Esto se debera realizar para cada proyecto en el interior del workspace)
+ pulsar "Finish" (Esto se debera realizar para cada proyecto en el interior del workspace).
 
 
 Se curso se realizo sobre el IDE:
