@@ -9,7 +9,7 @@ boton "Directory..." y seleccionar un proyecto dentro de esta carpeta Workspace,
  pulsar "Finish" (Esto se debera realizar para cada proyecto en el interior del workspace).
 
 
-Se curso se realizo sobre el IDE:
+El curso se realizo sobre el IDE:
 * Spring Tool Suite 
 * Version: 3.8.3.RELEASE
 * Build Id: 201612191351
