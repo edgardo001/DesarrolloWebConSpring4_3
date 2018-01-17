@@ -1,6 +1,7 @@
 # DesarrolloWebConSpring4_3 
 
-Se sube el workspace completo de eclipse, para cargar los proyecto:
+Se carga "workspace" completo de eclipse al repositorio.
+Para cargar los proyecto:
 * "Abrir Spring Tool Suite" o "Eclipse con el plugin Spring"
 * Seleccionar esta carpeta como Workspace (Solo abrira el workspace vacio)
 * Para agregar los proyectos ir a "File/Open Proyects from file System..." 
