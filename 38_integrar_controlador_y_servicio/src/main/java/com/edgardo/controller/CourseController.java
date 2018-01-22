@@ -20,7 +20,8 @@ public class CourseController {
 	//Declarar el servicio
 	@Autowired
 	@Qualifier("courseServiceImpl")
-	private static CourseService courseService;
+	private CourseService courseService;
+	//private static CourseService courseService;//Entrega error de variable null, sin indicar claramente cual es el problema
 	
 	@GetMapping("/listcourses")
 	public ModelAndView listAllCourses() {
